@@ -8,16 +8,18 @@
 
 # print("Enter a binary number: ")
 # binary = input()
+# flag = True
 # for i in binary:
 #     if i not in "01":
 #         print("invaild input")
-#         exit()
-        
-# print(f"binary : {binary} -----> decimal : {int(binary,2)}")
+#         flag = False
+#         break
+# if flag:        
+#     print(f"binary : {binary} -----> decimal : {int(binary,2)}")
 
-# 	- write a function that takes a number as an argument and if the number
-# 		divisible by 3 return "Fizz" and if it is divisible by 5 return "buzz" and if is is
-# 		divisible by both return "FizzBuzz"
+	# - write a function that takes a number as an argument and if the number
+	# 	divisible by 3 return "Fizz" and if it is divisible by 5 return "buzz" and if is is
+	# 	divisible by both return "FizzBuzz"
 
 # def FizzBuzz(num):
 #     fizz = ""
@@ -51,16 +53,14 @@
 
 # 	- Ask the user for his name then confirm that he has entered his name (not an empty string/integers).
 #     then proceed to ask him for his email and print all this data
-
 # def EnterName():
 #     name = input("Enter your name: ")
 #     if not name:
 #         print("Invaild name, try again")
 #         return EnterName()
-#     for i in [0,1,2,3,4,5,6,7,8,9]:
-#         if str(i) in name:
-#             print("Invaild name, name shoudln't contain any number")
-#             return EnterName()
+#     if not name.isalpha():
+#         print("Invaild name, name shoudln't contain any number")
+#         return EnterName()
 #     return name
 # def EnterEmail():
 #     email = input("Enter your email: ")
@@ -68,8 +68,8 @@
 #     if indexOfAT == -1 or indexOfAT == 0:
 #         print("invaild email")
 #         return EnterEmail()
-#     indexOfDOT = email.rfind(".")
-#     if indexOfDOT == -1:
+#     indexOfDOT = email.rfind(".") #elshater.hassan@email.com
+#     if indexOfDOT == -1 or indexOfAT > indexOfDOT:
 #         print("Invaild Email")
 #         return EnterEmail()
     
