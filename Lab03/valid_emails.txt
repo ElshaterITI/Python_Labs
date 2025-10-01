@@ -1,0 +1,5 @@
+alice123@gmail.com
+bob_smith@outlook.com
+charlie.brown@yahoo.co.uk
+john.doe@example.com
+support-team@mycompany.org

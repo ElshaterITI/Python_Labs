@@ -1,0 +1,132 @@
+5.0 
+ floor: 5 
+ ceil: 5 
+ Square Root: 2.23606797749979 
+ Area of Circle: 78.53981633974483
+
+5.0 
+ floor: 5 
+ ceil: 5 
+ Square Root: 2.23606797749979 
+ Area of Circle: 78.53981633974483
+
+7.1 
+ floor: 7 
+ ceil: 8 
+ Square Root: 2.6645825188948455 
+ Area of Circle: 158.36768566746147
+
+1.17 
+ floor: 1 
+ ceil: 2 
+ Square Root: 1.0816653826391966 
+ Area of Circle: 4.300526183499067
+
+12.1 
+ floor: 12 
+ ceil: 13 
+ Square Root: 3.478505426185217 
+ Area of Circle: 459.9605804120816
+
+16.35 
+ floor: 16 
+ ceil: 17 
+ Square Root: 4.043513323831146 
+ Area of Circle: 839.8184021392576
+
+1.0 
+ floor: 1 
+ ceil: 1 
+ Square Root: 1.0 
+ Area of Circle: 3.141592653589793
+
+2.0 
+ floor: 2 
+ ceil: 2 
+ Square Root: 1.4142135623730951 
+ Area of Circle: 12.566370614359172
+
+3.0 
+ floor: 3 
+ ceil: 3 
+ Square Root: 1.7320508075688772 
+ Area of Circle: 28.274333882308138
+
+4.0 
+ floor: 4 
+ ceil: 4 
+ Square Root: 2.0 
+ Area of Circle: 50.26548245743669
+
+5.0 
+ floor: 5 
+ ceil: 5 
+ Square Root: 2.23606797749979 
+ Area of Circle: 78.53981633974483
+
+6.0 
+ floor: 6 
+ ceil: 6 
+ Square Root: 2.449489742783178 
+ Area of Circle: 113.09733552923255
+
+1.0 
+ floor: 1 
+ ceil: 1 
+ Square Root: 1.0 
+ Area of Circle: 3.141592653589793
+
+6.0 
+ floor: 6 
+ ceil: 6 
+ Square Root: 2.449489742783178 
+ Area of Circle: 113.09733552923255
+
+7.0 
+ floor: 7 
+ ceil: 7 
+ Square Root: 2.6457513110645907 
+ Area of Circle: 153.93804002589985
+
+63.0 
+ floor: 63 
+ ceil: 63 
+ Square Root: 7.937253933193772 
+ Area of Circle: 12468.981242097889
+
+4.0 
+ floor: 4 
+ ceil: 4 
+ Square Root: 2.0 
+ Area of Circle: 50.26548245743669
+
+7.0 
+ floor: 7 
+ ceil: 7 
+ Square Root: 2.6457513110645907 
+ Area of Circle: 153.93804002589985
+
+6.0 
+ floor: 6 
+ ceil: 6 
+ Square Root: 2.449489742783178 
+ Area of Circle: 113.09733552923255
+
+4.0 
+ floor: 4 
+ ceil: 4 
+ Square Root: 2.0 
+ Area of Circle: 50.26548245743669
+
+3.0 
+ floor: 3 
+ ceil: 3 
+ Square Root: 1.7320508075688772 
+ Area of Circle: 28.274333882308138
+
+4.0 
+ floor: 4 
+ ceil: 4 
+ Square Root: 2.0 
+ Area of Circle: 50.26548245743669
+
